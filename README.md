@@ -86,7 +86,3 @@ Fritzing, Qt, Boost 및 기타 서드파티 라이브러리는 각자의 라이�
 ---
 
 > **Maintainer** : 박현수 (Hyeonsu Park) · [@HyeonsuParkembedded](https://github.com/HyeonsuParkembedded)
-
-```
-::contentReference[oaicite:0]{index=0}
-```
